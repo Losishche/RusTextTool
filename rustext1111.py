@@ -7,7 +7,7 @@ bl_info = {
     "description": "Russian text tool Addon",
     "version": (1, 1, 1),
     "category": "User",
-    "author": "Alex Gr",ishaev
+    "author": "Alex Grishaev"
     "warning": "It needs to make tests"
 }
 
