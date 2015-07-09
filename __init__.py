@@ -4,7 +4,7 @@ bl_info = {
     "description": "Russian text tool Addon",
     "version": (1, 1, 1),
     "category": "User",
-    "author": "Stas Gorbachev",
+    "author": "Alexey Grishaev",
     "warning": ""
 }
 
